@@ -26,3 +26,9 @@ An overview of the detection mechanisms implemented by this anti-cheat system. E
 | 14 | **Overlay window check** | Searches target-process windows for a specific style value | Attempts to close a suspected ESP overlay window |
 | 15 | **Thread tampering (Guardian)** | Watchdog checks whether monitoring threads were suspended or terminated | Reports and attempts to resume suspended threads |
 | 16 | **Runtime heartbeat** | Periodically posts running status | Reports that the tool remains active |
+
+After end task the anticheat you need to restart your pc to use the anticheat again. 
+
+
+https://discord.gg/T94Ma5NxSb
+join the discord server to view all the detection
