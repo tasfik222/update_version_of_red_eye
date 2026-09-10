@@ -31,6 +31,9 @@ After end task the anticheat you need to restart your pc to use the anticheat ag
 
 
 How to use: Put the two EXE files in the same folder, then simply run the anti-cheat as administrator. You don’t need to do anything else.
+The first 5 thread kills are normal. However, if a thread kill occurs after the first 5, it means that some process is interacting with the anti-cheat.
+
+Avoid memory changes, as they are normal behavior for HD-Player. If a timestamp is detected, avoid that as well.
 
 
 https://discord.gg/T94Ma5NxSb
