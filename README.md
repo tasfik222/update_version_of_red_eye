@@ -27,13 +27,12 @@ An overview of the detection mechanisms implemented by this anti-cheat system. E
 | 15 | **Thread tampering (Guardian)** | Watchdog checks whether monitoring threads were suspended or terminated | Reports and attempts to resume suspended threads |
 | 16 | **Runtime heartbeat** | Periodically posts running status | Reports that the tool remains active |
 
-After end task the anticheat you need to restart your pc to use the anticheat again. 
+
 
 
 How to use: Put the two EXE files in the same folder, then simply run the anti-cheat as administrator. You don’t need to do anything else.
 The first 5 thread kills are normal. However, if a thread kill occurs after the first 5, it means that some process is interacting with the anti-cheat.
-
-Avoid memory changes, as they are normal behavior for HD-Player. If a timestamp is detected, avoid that as well.
+Avoid memory changes, as they are normal behavior for HD-Player. If a timestamp is detected, avoid that as well.After end task the anticheat you need to restart your pc to use the anticheat again. 
 
 
 https://discord.gg/T94Ma5NxSb
