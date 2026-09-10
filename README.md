@@ -30,5 +30,8 @@ An overview of the detection mechanisms implemented by this anti-cheat system. E
 After end task the anticheat you need to restart your pc to use the anticheat again. 
 
 
+How to use: Put the two EXE files in the same folder, then simply run the anti-cheat as administrator. You don’t need to do anything else.
+
+
 https://discord.gg/T94Ma5NxSb
 join the discord server to view all the detection
